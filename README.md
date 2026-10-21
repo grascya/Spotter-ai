@@ -6,9 +6,9 @@ This project trains a freight rate prediction model using the labeled developmen
 
 ## Files
 
-Freight_Model.ipynb — main analysis, feature engineering, model training, and prediction notebook
-validation_predictions.csv — final submission file
-scorer_results/candidate_december.png — December chart produced by score.py
+- Freight_Model.ipynb: main analysis, feature engineering, model training, and prediction notebook
+- validation_predictions.csv: final submission file
+- scorer_results/candidate_december.png: December chart produced by score.py
 
 ## Setup
 
